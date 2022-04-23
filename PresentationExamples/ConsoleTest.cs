@@ -5,26 +5,29 @@ namespace MyNamespace
     {
         static void Main(string[] args){
 
-            // Hello World Example
-            Console.WriteLine("Hello World!"); 
+            // ---------- Hello World Example ----------
+            // Console.WriteLine("Hello World!"); 
 
+            // ---------- Binary Search Example ----------
+            // BinarySearch.initiateBinarySearch();
+
+            // ---------- Parameter Passing Example ----------
+            // ParameterPassing.staticPassing();
+
+            // ---------- Stack Example ----------
             // // Binary Search Example
             // BinarySearch.initiateBinarySearch();
 
-            // // Stack Example
-            // Console.WriteLine("\nStack Emaple Output:"); 
-            // StackExample.StackMethodExample();
-            // Console.WriteLine('\n');      
-
-            // // Queue Example
+            // // ---------- Queue Example ----------
             // Console.WriteLine("\nQueue Emaple Output:"); 
             // QueueExample.QueueMethodExample();
             // Console.WriteLine('\n'); 
 
-            // // LinkedList Example
+            // // ---------- LinkedList Example ----------
             // Console.WriteLine("\nLinked List Emaple Output:"); 
             // LinkedListExample.LinkedListMethodExample();
             // Console.WriteLine('\n');
+
         }
     }
 }
