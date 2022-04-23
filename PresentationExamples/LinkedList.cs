@@ -20,9 +20,9 @@ namespace MyNamespace
 				Console.WriteLine(str);
 			}
 
-			Console.WriteLine("Removing my_list.First");
+			Console.WriteLine("Removing my_list.First()");
 
-			my_list.Remove(my_list.First);
+			my_list.Remove(my_list.First());
 
 
 			Console.WriteLine("Checking if Carrots are in the LinkedList");
