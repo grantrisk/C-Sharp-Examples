@@ -19,6 +19,16 @@ namespace MyNamespace
             // StackExample.StackMethodExample();
             // Console.WriteLine('\n'); 
 
+            // // ---------- Queue Example ----------
+            // Console.WriteLine("\nQueue Emaple Output:"); 
+            // QueueExample.QueueMethodExample();
+            // Console.WriteLine('\n'); 
+
+            // // ---------- LinkedList Example ----------
+            // Console.WriteLine("\nLinked List Emaple Output:"); 
+            // LinkedListExample.LinkedListMethodExample();
+            // Console.WriteLine('\n');
+
         }
     }
 }
