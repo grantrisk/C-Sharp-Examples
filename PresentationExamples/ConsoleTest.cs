@@ -6,15 +6,15 @@ namespace MyNamespace
         static void Main(string[] args){
 
             // ---------- Hello World Example ----------
-            // Console.WriteLine("\Hello World Example Output:");
+            // Console.WriteLine("\nHello World Example Output:");
             // Console.WriteLine("Hello World!"); 
 
             // ---------- Binary Search Example ----------
-            // Console.WriteLine("\Binary Search Example Output:");
+            // Console.WriteLine("\nBinary Search Example Output:");
             // BinarySearch.initiateBinarySearch();
 
             // ---------- Parameter Passing Example ----------
-            // Console.WriteLine("\Parameter Passing Example Output:");
+            // Console.WriteLine("\nParameter Passing Example Output:");
             // ParameterPassing.staticPassing();
 
             // ---------- Dictionary Example ----------
@@ -42,8 +42,8 @@ namespace MyNamespace
             // StackExample.StackMethodExample();
 
             // ---------- Merge Sort Example ----------
-            // Console.WriteLine("\Merge Sort Example Output:"); 
-            // MergeSort.initialize();
+            Console.WriteLine("\nMerge Sort Example Output:"); 
+            MergeSort.initialize();
 
         }
     }
