@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/grantrisk/Documents/CSC 434 Programming Languages/PresentationExamples/PresentationExamples.csproj": {}
+    "/Users/grantrisk/Documents/CSC 434 Programming Languages/C-Sharp-Examples/PresentationExamples/PresentationExamples.csproj": {}
   },
   "projects": {
-    "/Users/grantrisk/Documents/CSC 434 Programming Languages/PresentationExamples/PresentationExamples.csproj": {
+    "/Users/grantrisk/Documents/CSC 434 Programming Languages/C-Sharp-Examples/PresentationExamples/PresentationExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/grantrisk/Documents/CSC 434 Programming Languages/PresentationExamples/PresentationExamples.csproj",
+        "projectUniqueName": "/Users/grantrisk/Documents/CSC 434 Programming Languages/C-Sharp-Examples/PresentationExamples/PresentationExamples.csproj",
         "projectName": "PresentationExamples",
-        "projectPath": "/Users/grantrisk/Documents/CSC 434 Programming Languages/PresentationExamples/PresentationExamples.csproj",
+        "projectPath": "/Users/grantrisk/Documents/CSC 434 Programming Languages/C-Sharp-Examples/PresentationExamples/PresentationExamples.csproj",
         "packagesPath": "/Users/grantrisk/.nuget/packages/",
-        "outputPath": "/Users/grantrisk/Documents/CSC 434 Programming Languages/PresentationExamples/obj/",
+        "outputPath": "/Users/grantrisk/Documents/CSC 434 Programming Languages/C-Sharp-Examples/PresentationExamples/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/grantrisk/.nuget/NuGet/NuGet.Config"
