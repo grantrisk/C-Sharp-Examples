@@ -15,9 +15,8 @@ namespace MyNamespace
             // ParameterPassing.staticPassing();
 
             // ---------- Stack Example ----------
-            // Console.WriteLine("\nStack Emaple Output:"); 
-            // StackExample.StackMethodExample();
-            // Console.WriteLine('\n'); 
+            // // Binary Search Example
+            // BinarySearch.initiateBinarySearch();
 
             // // ---------- Queue Example ----------
             // Console.WriteLine("\nQueue Emaple Output:"); 
