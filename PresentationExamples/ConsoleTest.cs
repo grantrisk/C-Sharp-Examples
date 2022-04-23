@@ -8,10 +8,13 @@ namespace MyNamespace
             // Hello World Example
             Console.WriteLine("Hello World!"); 
 
-            //Stack Example
-            Console.WriteLine("\nStack Emaple Output:"); 
-            StackExample.StackMethodExample();
-            Console.WriteLine('\n'); 
+            // Binary Search Example
+            // BinarySearch.initiateBinarySearch();
+
+            // Stack Example
+            // Console.WriteLine("\nStack Emaple Output:"); 
+            // StackExample.StackMethodExample();
+            // Console.WriteLine('\n'); 
 
         }
     }
