@@ -41,6 +41,10 @@ namespace MyNamespace
             // Console.WriteLine("\nStack Example Output:"); 
             // StackExample.StackMethodExample();
 
+            // ---------- Merge Sort Example ----------
+            // Console.WriteLine("\Merge Sort Example Output:"); 
+            // MergeSort.initialize();
+
         }
     }
 }
