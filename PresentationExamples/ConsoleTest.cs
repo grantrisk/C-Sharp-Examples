@@ -8,14 +8,23 @@ namespace MyNamespace
             // Hello World Example
             Console.WriteLine("Hello World!"); 
 
-            // Binary Search Example
+            // // Binary Search Example
             // BinarySearch.initiateBinarySearch();
 
-            // Stack Example
+            // // Stack Example
             // Console.WriteLine("\nStack Emaple Output:"); 
             // StackExample.StackMethodExample();
+            // Console.WriteLine('\n');      
+
+            // // Queue Example
+            // Console.WriteLine("\nQueue Emaple Output:"); 
+            // QueueExample.QueueMethodExample();
             // Console.WriteLine('\n'); 
 
+            // // LinkedList Example
+            // Console.WriteLine("\nLinked List Emaple Output:"); 
+            // LinkedListExample.LinkedListMethodExample();
+            // Console.WriteLine('\n');
         }
     }
 }
