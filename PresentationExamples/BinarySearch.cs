@@ -7,7 +7,6 @@ using System;
         public static void initiateBinarySearch()
         {
             int[] arr = { 2, 3, 4, 10, 40 };
-            int n = arr.Length;
             int x = 10;
             int result = binarySearch(arr, x);
             if (result == -1)

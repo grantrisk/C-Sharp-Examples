@@ -9,8 +9,13 @@ namespace MyNamespace
                 {"India", "Mumbai, New Delhi, Pune"}
             };
 
-            Console.WriteLine(cities["UK"]);
-            Console.WriteLine(cities["USA"]);
+            Console.WriteLine("UK cities: " + cities["UK"]);
+            Console.WriteLine("US cities: " + cities["USA"]);
+
+            cities["UK"] = "London, Birmingham";
+
+            Console.WriteLine("Modified UK cities: " + cities["UK"]);
+
         }
     }
 }

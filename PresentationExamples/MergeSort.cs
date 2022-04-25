@@ -3,10 +3,12 @@ namespace MyNamespace {
         public static void initialize()
         {
             int[] arr = { 12, 11, 13, 5, 6, 7 };
-            Console.WriteLine("Given Array");
+            Console.WriteLine("Given Array:");
             printArray(arr);
+
             arr = mergeSort(arr);
-            Console.WriteLine("\nSorted array");
+            
+            Console.WriteLine("\nSorted array:");
             printArray(arr);
         }
 
